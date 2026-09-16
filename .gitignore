@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.eml
+*.userlibraries
+out/
+build/
+.gradle/
+
+.classpath
+.project
